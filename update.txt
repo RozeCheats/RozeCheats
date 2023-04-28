@@ -4,5 +4,7 @@ Latest Update: 28/04/2023 | 16h52
 
 28/04/2023
 
+- Reset Sell Limit Added
+- Bypass vehicle Sell Price Added
 - Some Vehicle Added (Arena War, Casino DLC)
 - Launcher Added
