@@ -1,5 +1,16 @@
 RozeCheats for GTA Online
 
+30/04/2023
+
+- Buy Yacht for Free Added
+- Edit Casino Prize Car Added
+- Edit Luxury Shop Car Added
+- Edit Car Meet Prize Ride
+- Instant Claim Car Meet Prize Ride
+- Set Maximum Sell value of ISSI5 to 3 800 000£
+- Change Menu Position and Unload Added in Settings
+
+
 29/04/2023
 
 - Vehicle Spawn Maxed & Gift Car into Vehicle Tools section Added
