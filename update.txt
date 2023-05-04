@@ -1,5 +1,15 @@
 RozeCheats for GTA Online
 
+04/05/2023
+
+- Remote Give Off Radar To All Players
+- Remote Clear Wanted Level of All Players
+- Remote Give Off Radar/ Clear Wanted to specified Player
+- Remote Teleport specified Player to Appartment
+- Remote Teleport All to Eclipse Tower
+- Off The Radar Added in Self Options
+- UI Design Text Size Upgraded 0.25 to 0.35
+
 01/05/2023
 
 - Gift Weapons to Others Players Added
