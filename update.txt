@@ -1,5 +1,16 @@
 RozeCheats for GTA Online
 
+05/05/2023
+
+- Native Updated
+- Roze Code improved
+- TP to Waypoint Improved
+- Hotkey for TP to Waypoint Added in Setting [F1 Key]
+- Raped by Clown Van Added in Player Grief
+- Crash Combo Added (Make the Player Crash with Explosive, Jet & Oil Citerns
+- Explode Player Improved for explode the player instantly
+- Canon Blast Added in Self [Project Explosive into the Direction you look]
+
 04/05/2023
 
 - Remote Give Off Radar To All Players
