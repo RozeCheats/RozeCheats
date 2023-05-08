@@ -1,5 +1,27 @@
 RozeCheats for GTA Online
 
+08/05/2023
+
+- Tryhard Menu Added
+  -> Lester Off Radar
+  -> Unlimited Time for Reveal Player Option
+  -> CEO Perk Unlimited Time
+  -> CEO Perk for FREE
+  -> Instant Bullshark Hotkey
+  -> Auto kill Hotkey
+  -> Instant Respawn
+  -> Infinite Ammo
+  -> Give MK2 Stuff
+  -> Give Explosive, Incendiary ammo for MK2 Sniper  
+  -> Give Night Scope, Thermal Scope for MK2 Sniper  
+  -> Give Explosive, Incendiary ammo for MK2 Shotgun  
+  -> Reffill Inventory
+  -> Gift 2023 Knife, Bat with exclusive Camo
+  -> Weapons Damage Modifier
+  
+- Recovery
+  -> Crew Rank Modifier Added
+
 05/05/2023
 
 - Native Updated
