@@ -1,5 +1,14 @@
 RozeCheats for GTA Online
 
+10/05/2023
+
+- Casino | No Cooldown for Visitor Chips Added [SPECIAL -> CASINO]
+- Casino | Bypass Buy Chips Limit to 500 000 000$ [SPECIAL -> CASINO]
+- Arena Wheel | Edit Money , RP , AP of the Wheel Added [SPECIAL -> ARENA]
+- Arena Wheel | Bypass Cooldown For Arena Wheel [SPECIAL -> ARENA]
+- Arena Wheel | Arena Wheel Cost set to FREE [SPECIAL -> ARENA]
+- Outfit | Simple Outfit Editor Added [MY PLAYER -> WARDROBE]
+
 09/05/2023
 
 - Remote Give RP to Others Players [EXCLUSIVE]
