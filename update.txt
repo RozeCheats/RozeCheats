@@ -1,5 +1,14 @@
 RozeCheats for GTA Online
 
+12/05/2023
+
+- Gun Van | Edit the Gun Van Weapons [SPECIAL -> GUN VAN]
+- Gun Van | Set Unreleased Weapon and save Permantly [SPECIAL -> GUN VAN]
+- All Player | You can now Host Modded Lobby with a new features [NETWORK -> ALL PLAYER]
+- Name | you can now edit your Character | CEO | MC Club | Nightclub Name [SPECIAL -> VIP EDITOR]
+- Session | You can now Join Solo Session [SETTINGS]
+- Vehicle | Delete Vehicle Added [VEHICLE TOOLS]
+
 10/05/2023
 
 - Casino | No Cooldown for Visitor Chips Added [SPECIAL -> CASINO]
