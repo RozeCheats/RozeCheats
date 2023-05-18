@@ -1,5 +1,12 @@
 RozeCheats for GTA Online
 
+19/05/2023
+
+- Animated Theme Added
+- Entity Manager Added [SPECIAL -> ENTITY MANAGER]
+- Stat Editor (BETA) Added [SPECIAL -> STAT EDITOR]
+
+
 12/05/2023
 
 - Gun Van | Edit the Gun Van Weapons [SPECIAL -> GUN VAN]
