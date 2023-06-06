@@ -1,5 +1,14 @@
 RozeCheats for GTA Online
 
+06/06/2023
+
+- Fixed Menu Crash after Kick & Crash a Player
+- Cage Player Added
+- Load Multiplayer Map & SinglePlayer Map Added in Settings
+- Menu Key changed to F5
+- Boost Others Player Vehicle Added
+- Pop Tires others player vehicle Added
+
 19/05/2023
 
 - Animated Theme Added
