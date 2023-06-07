@@ -1,5 +1,12 @@
 RozeCheats for GTA Online
 
+07/06/2023
+
+- Stealth Money Added (use at your own risk)
+- Player Movement Speed Modifier Added in Self
+- Bypass Ban From In-Game Chat Added in Settings
+- Chips Drop Added in Drop Section
+
 06/06/2023
 
 - Fixed Menu Crash after Kick & Crash a Player
