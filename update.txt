@@ -1,5 +1,11 @@
 RozeCheats for GTA Online
 
+17/06/2023
+
+- All TSE Script Updated to 1.67
+- Removed Money Features
+- Removed Weapons Features for Test
+
 07/06/2023
 
 - Stealth Money Added (use at your own risk)
