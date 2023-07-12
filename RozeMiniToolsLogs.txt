@@ -1,3 +1,11 @@
+12/07/2023 Roze Mini Tools [Fully Undetected]
+
+- Outfit Tools for rename your outfit with colored & special text
+- Teleport To Player Added
+- Potential Modder Alert Added
+- RP Changer Added
+
+
 23/06/2023
 
 Roze Mini Tools Released
